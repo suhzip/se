@@ -1,1 +1,5 @@
-SE test
+## 과제 결과물 위치
+
+- 요구사항 문서: `doc/Customer Requirement Document v0.1.pdf`
+- 프로젝트 I : `doc/project1/project1_definition.md`
+- 프로젝트 II : `doc/project2/project2_quality.md`
